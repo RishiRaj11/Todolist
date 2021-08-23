@@ -1,0 +1,19 @@
+.sidebar{
+    user-select: none;
+    width:266px;
+    height: 100vh;
+    padding-top: 75px;
+    border-right:solid black;
+}
+.sidebar div{
+    margin-bottom: 10px;
+    cursor:pointer;
+    padding: 15px;  
+}
+
+.sidebar div .active{
+background-color: lightblue;
+}
+div .icon{
+    margin: right 10px;
+}

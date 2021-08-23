@@ -1,0 +1,35 @@
+.tasks{
+  background-color: white;  
+  height: 100vh;
+  width: calc(922px - 266px);
+  padding: 74px 20px 0;
+}
+.tasks .add_task_btn{
+    cursor: pointer;
+
+}
+.tasks .add_task_btn .plus{
+    color: #dd4b39;
+    font-size: 18px;
+    
+}
+
+.tasks .add_task_text{
+color: #545454;
+font-size: 14px;
+margin-left: 15px;
+}
+.tasks .add_task_dialog{
+    margin-top: 10px;
+
+}
+.tasks .add_task_dialog input{
+    width: 100%;
+    border: 1px solid #ddd;
+    background-color:white;
+    border-radius: 3px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}

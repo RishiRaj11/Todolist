@@ -1,0 +1,12 @@
+.header{
+    height: 60px;
+    width: auto;
+    background-color: rgb(217, 243, 243);
+    border-bottom: solid black;
+
+}
+.image{
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+}
